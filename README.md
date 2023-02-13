@@ -3,6 +3,6 @@ Contact Management Systems
 Communications between:
 ADMIN, Individual Users and Company Users.
 
-ADMIN to Users.
+ADMIN <--> Users.
 
-Users to Users.
+Users <--> Users.
